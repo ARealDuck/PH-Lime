@@ -12935,7 +12935,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_SKQG_WithStem"
 			(at 102.87 29.21 0)
 			(effects
 				(font
